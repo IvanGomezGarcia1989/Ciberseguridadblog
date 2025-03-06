@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"util","c":"ConexionBD","l":"ConexionBD()","u":"%3Cinit%3E()"},{"p":"util","c":"ConexionBD","l":"getConnection()"},{"p":"util","c":"ConexionBD","l":"inicializarBaseDeDatos()"}];updateSearchResults();
