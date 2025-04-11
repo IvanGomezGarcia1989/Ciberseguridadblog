@@ -1,8 +1,6 @@
 
 # Blog de Ciberseguridad
 
-https://cyberseguritypodcast.com/BlogCiberseguridad
-
 
 Este repositorio contiene el código fuente y la documentación del proyecto **Blog de Ciberseguridad**, una aplicación web desarrollada en Java con el objetivo de difundir conocimientos y buenas prácticas en materia de seguridad informática. El sistema permite a los usuarios registrarse, iniciar sesión, publicar y gestionar artículos, comentar, dar "me gusta" y, en el caso de los administradores, gestionar usuarios a través de un panel exclusivo.
 
